@@ -1,0 +1,23 @@
+.button {
+  color: skyblue;
+  height: 50px;
+  width: 100px;
+}
+
+.heading {
+  color: teal;
+}
+
+.paragraph {
+  color: brown;
+}
+
+.bg-container {
+  color: cadetblue;
+  background-color: antiquewhite;
+  background-size: auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
